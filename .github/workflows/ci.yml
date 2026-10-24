@@ -16,3 +16,5 @@ jobs:
         run: grep "<h1>" index.html
       - name: say hello again
         run: echo "Hello again and goodbye"
+      - name: say hello again
+        run: echo "Hello again and goodbye from add-ci2"
